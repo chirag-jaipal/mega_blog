@@ -1,4 +1,4 @@
-import conf from "../config.js";
+import conf from "../config/config";
 import { Client, TablesDB } from "appwrite";
 
 export class BlogService {
