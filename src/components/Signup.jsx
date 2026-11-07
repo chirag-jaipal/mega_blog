@@ -81,7 +81,7 @@ function Signup() {
               })}
             />
             <Button type="submit" className="width-full">
-              Sign in
+              Sign up
             </Button>
           </div>
         </form>
