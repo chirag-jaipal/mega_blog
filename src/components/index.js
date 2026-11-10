@@ -9,6 +9,8 @@ import Select from "./Select.jsx";
 import PostCard from "./PostCard.jsx";
 import Login from "./Login.jsx";
 import Signup from "./Signup.jsx";
+import RTE from "./RTE.jsx";
+import PostForm from "./post-form/PostForm.jsx";
 
 export {
   Header,
@@ -22,4 +24,6 @@ export {
   PostCard,
   Login,
   Signup,
+  RTE,
+  PostForm,
 };
